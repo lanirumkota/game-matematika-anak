@@ -5,7 +5,7 @@ import time
 class MathGame:
     def __init__(self, root):
         self.root = root
-        self.root.title("Game Matematika mama")
+        self.root.title("Game Matematika Anak")
         self.root.geometry("450x400")
         self.root.configure(bg="#FFF8DC")  # Latar belakang pastel cerah
 
